@@ -32,6 +32,10 @@ After that, head to the `Bot` tab and get your token, set your intents and permi
 > 
 > PERMISSIONS you'll need to check off the permissions you want to use and copy the generated integer
 
+# ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+### BEFORE COMMITTING CHANGES YOU SHOULD IGNORE ".env" FROM GIT COMMITS
+
+### &nbsp; 
 ## Next Steps
 After you have all your .env variables set, open your CLI and navigate to your repo directory and run `go mod tidy`, after it finishes grabbing packages 
 you'll be ready to `go run bot.go` and it should spin up an instance with your new bot.  I have it spitting out a URL you can copy to invite the bot to your
