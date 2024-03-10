@@ -2,7 +2,7 @@
   <img alt="GO BOT" src="https://iili.io/JVyhMTx.png" />
 </p>
 
-# **Go-bot** is a base starting point for a discord bot written in go.
+# **Go-bot** is a base starting point for a discord bot written in [<img alt="go" width="50px" src="https://go.dev/images/go-logo-white.svg"></img>](https://go.dev)
 I've tried to break it apart into easily managed chunks of code as I'm learning [go](https://go.dev) with this project.
 
 ## Getting Started
