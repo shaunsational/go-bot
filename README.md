@@ -32,7 +32,7 @@ After that, head to the `Bot` tab and get your token, set your intents and permi
 > 
 > PERMISSIONS you'll need to check off the permissions you want to use and copy the generated integer
 
-# ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+# ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 ### BEFORE COMMITTING CHANGES YOU SHOULD IGNORE ".env" FROM GIT COMMITS
 
 ### &nbsp; 
